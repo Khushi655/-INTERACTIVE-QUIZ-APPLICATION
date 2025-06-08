@@ -21,3 +21,9 @@ What makes this project stand out is its simplicity and clarity. It doesn’t re
 Overall,this project is a thoughtfully crafted project that combines learning with fun. It demonstrates the developer’s grasp of essential web development principles while delivering a product that users can genuinely enjoy. With room for future enhancements—such as adding more question categories, introducing timers, or integrating a back-end for persistent data—this project provides a strong foundation upon which more complex features can be built.
 In short, this task is a cheerful and effective quiz app that blends creativity with practical coding skills. It’s a great stepping stone for anyone learning web development, and it’s easy to imagine adding more to it in the future—like different quiz categories, timers, or even a login system. For this project I have referred youtube,google and chatgpt.
 
+*OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/54df4640-b337-4218-9c7b-e38863fee3a1)
+![Image](https://github.com/user-attachments/assets/f1aaf4e2-a4b0-41d2-86d1-b27e6021a159)
+![Image](https://github.com/user-attachments/assets/0806932e-5bc6-43c3-a270-3df007425774)
+
